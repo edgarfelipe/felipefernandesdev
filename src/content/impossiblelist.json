@@ -1,0 +1,103 @@
+[
+  {
+    "name": "technology goals",
+    "goals": [
+      {
+        "type": 1,
+        "name": "create my portfolio",
+        "edits": [{ "date": "2022-05-15" }] 
+      },
+      {
+        "type": 1,
+        "name": "Code CRUD ",
+        "edits": []
+      },
+      {
+        "type": 1,
+        "name": "Code Dashboard ",
+        "edits": []
+      },
+      {
+        "type": 1,
+        "name": "Code a mobile app with React Native",
+        "edits": []
+      }
+    ]
+  },
+  {
+    "name": "Health/sports goals",
+    "goals": [
+      {
+        "type": 1,
+        "name": "Run 5km",
+        "edits": [
+          {
+            "date": "2019-05-27",
+            "value": 4708.0,
+            "links": [
+              "https://www.strava.com/activities/1599033223",
+              "https://www.strava.com/activities/1599033195",
+              "https://www.strava.com/activities/1599033199"
+            ]
+          }
+        ],
+        "subgoals": [6000, 4200]
+      },
+      {
+        "name": "Run 10km",
+        "type": 1,
+        "edits": [
+          { "date": "2018-04-06", "value": 204.7 },
+          {
+            "date": "2018-04-28",
+            "value": 192.8,
+            "link": "https://www.strava.com/activities/15371991622"
+          },
+          { "date": "2018-12-08", "value": 186.6 },
+          {
+            "date": "2019-04-28",
+            "value": 182.07,
+            "link": "https://www.strava.com/activities/23269183892"
+          },
+          {
+            "date": "2020-11-12",
+            "value": 179.3,
+            "link": "https://www.strava.com/activities/43287424072"
+          }
+        ],
+        "subgoals": [200, 180]
+      }
+    ]
+  },
+  {
+    "name": "Fun \"Insane\" goals",
+    "goals": [
+      { "name": "live on an island", "type": 1 },
+      { "name": "Own a Tesla", "type": 1 }
+    ]
+  },
+  {
+    "name": "Events to attend",
+    "goals": [
+      { "name": "Loading", "type": 1, "edits": [] },
+      { "name": "Loading", "type": 1, "edits": [] }
+    ]
+  },
+  {
+    "name": "game objectives",
+    "goals": [
+      { "name": "Reach Diamond Link in League of Legends", "type": 1, "edits": [] },
+      { "name": "Assemble the full Wingeon PokexGames team", "type": 1, "edits": [] }
+    ]
+  },
+  {
+    "name": "Places/Cities to Visit",
+    "goals": [
+      { "name": "João Pessoa, Paraiba", "type": 2, "edits": [{ "date": "Verão 2021" }] },
+      { "name": "Lisboa, Portugal", "type": 2, "edits": [] },
+      { "name": "London, England", "type": 1 },
+      { "name": "New York City, USA", "type": 1 },
+      { "name": "Los Angeles, USA", "type": 1 }
+    ]
+  }
+]
