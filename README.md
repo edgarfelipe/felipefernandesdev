@@ -1,6 +1,6 @@
 # desabilitado Felipe Fernandes Portifolio
 
-You can find a live version at [felipefernandes.dev.br](https://felipefernandes.dev.br).
+You can find a live version at [felipefernandes.dev.br](https://felipefernandes.netlify.app/).
 
 ## Frameworks e pacotes usados
 
